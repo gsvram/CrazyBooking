@@ -1,0 +1,12 @@
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\bin\Debug\net5.0\CrazyBooking.Model.deps.json
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\bin\Debug\net5.0\CrazyBooking.Model.dll
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\bin\Debug\net5.0\ref\CrazyBooking.Model.dll
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\bin\Debug\net5.0\CrazyBooking.Model.pdb
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.csproj.AssemblyReference.cache
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.AssemblyInfoInputs.cache
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.AssemblyInfo.cs
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.csproj.CoreCompileInputs.cache
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.dll
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\ref\CrazyBooking.Model.dll
+C:\WorkSpace\POC\CrazyBooking\CrazyBooking.Model\obj\Debug\net5.0\CrazyBooking.Model.pdb

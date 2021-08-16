@@ -1,0 +1,17 @@
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CarzyBooking.BL.deps.json
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CarzyBooking.BL.dll
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\ref\CarzyBooking.BL.dll
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CarzyBooking.BL.pdb
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CrazyBooking.DL.dll
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CrazyBooking.Model.dll
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CrazyBooking.DL.pdb
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\bin\Debug\net5.0\CrazyBooking.Model.pdb
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.csproj.AssemblyReference.cache
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.AssemblyInfoInputs.cache
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.AssemblyInfo.cs
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.csproj.CopyComplete
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.dll
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\ref\CarzyBooking.BL.dll
+C:\WorkSpace\POC\CrazyBooking\CarzyBooking.BL\obj\Debug\net5.0\CarzyBooking.BL.pdb
